@@ -6,7 +6,7 @@ A young passionate engineer pursuing a career in coding, software and web develo
 
 <div>
   <a href="https://github.com/csePriyanshu" target="_blank"><i class='bx bxl-github'></i></a>
-  <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><i class='bx bxl-linkedin'></i></a>
+  <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin.png"></a>
   <a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><i class='bx bxl-java'></i></a>
   <a href="https://www.instagram.com/_prianshukla/" target="_blank"><iclass='bx bxl-instagram'></i></a>
   <a href="https://codepen.io/prianshukla" target="_blank"><i class='bx bxl-codepen'></i></a>
