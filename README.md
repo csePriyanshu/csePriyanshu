@@ -34,6 +34,11 @@ A young passionate engineer pursuing a career in coding, software and web develo
   &nbsp;&nbsp;&nbsp;<img src="./images/microsoft-excel-50.png" title="Excel">&nbsp;&nbsp;&nbsp;<img src="./images/microsoft-powerpoint-50.png" title="Power Point">
   &nbsp;&nbsp;&nbsp;<img src="./images/microsoft-word-50.png" title="MS Word">&nbsp;&nbsp;&nbsp;<img src="./images/canva-50.png" title="Canva">
   &nbsp;&nbsp;&nbsp;<img src="./images/blender-3d-50.png" title="Blender 3D">
+  
+  Coding Platforms :
+  
+  &nbsp;&nbsp;&nbsp;<a href="www.hackerrank.com/priyanshushukla8" target="_blank"><img src="./images/hackerrank-50.png" style="width:50px" title="Hackerrank"></a>
+  
 
 <!---
 csePriyanshu/csePriyanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
