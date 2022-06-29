@@ -4,17 +4,19 @@
 
 A young passionate engineer pursuing a career in coding, software and web development. Ready to face new challenges in my life as a software engineer and to adapt to the changing environment of the world's developing IT sector. I am good at quickly and effectively learning new things.
 
+## Check me out on -
+
 <div>
-  <a href="https://github.com/csePriyanshu" target="_blank"><i class='bx bxl-github'></i></a>
-  <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin-30.png"></a>
-  <a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><i class='bx bxl-java'></i></a>
-  <a href="https://www.instagram.com/_prianshukla/" target="_blank"><iclass='bx bxl-instagram'></i></a>
-  <a href="https://codepen.io/prianshukla" target="_blank"><i class='bx bxl-codepen'></i></a>
+  <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin-30.png"></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><img src="./images/leetcode.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/prianshukla" target="_blank"><img src="./images/codepen-30.png"></a>
 </div>
+<br>
 
-- Tech whch I am familiar with and use more often : 
+## Tech with which I am familiar with and use more often !
 
-  Front End :
+  Fron End :
   
     ![ReactJs](http://url/to/img.png)
 
