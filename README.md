@@ -26,6 +26,14 @@ A young passionate engineer pursuing a career in coding, software and web develo
   &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;
   <img src="./images/nodejs-50.png" style="width:50px" title="NodeJs">&nbsp;&nbsp;&nbsp;<img src="./images/mysql-logo-50.png" title="MySQL">
   &nbsp;&nbsp;&nbsp;<img src="./images/php-logo-50.png" title="PHP">&nbsp;&nbsp;&nbsp;<img src="./images/java-50.png" title="Java">
+  
+  Softwares :
+  
+  &nbsp;&nbsp;&nbsp;<img src="./images/github-50.png" style="width:50px" title="Github">&nbsp;&nbsp;&nbsp;
+  <img src="./images/intellij-idea-50.png" style="width:50px" title="IntelliJ">&nbsp;&nbsp;&nbsp;<img src="./images/visual-studio-50.png" title="VS Code">
+  &nbsp;&nbsp;&nbsp;<img src="./images/microsoft-excel-50.png" title="Excel">&nbsp;&nbsp;&nbsp;<img src="./images/microsoft-powerpoint-50.png" title="Power Point">
+  &nbsp;&nbsp;&nbsp;<img src="./images/microsoft-word-50.png" title="MS Word">&nbsp;&nbsp;&nbsp;<img src="./images/canva-50.png" title="Canva">
+  &nbsp;&nbsp;&nbsp;<img src="./images/blender-3d-50.png" title="Blender 3D">
 
 <!---
 csePriyanshu/csePriyanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
