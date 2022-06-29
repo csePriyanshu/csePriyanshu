@@ -7,18 +7,19 @@ A young passionate engineer pursuing a career in coding, software and web develo
 ## Check me out on -
 
 <div>
-  <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin-30.png"></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><img src="./images/leetcode.png"></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/prianshukla" target="_blank"><img src="./images/codepen-30.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png"></a>
+  <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin-30.png" title="Linkedin"></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><img src="./images/leetcode.png" title="Leetcode"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/prianshukla" target="_blank"><img src="./images/codepen-30.png" title="Codepen"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png" title="Instagram"></a>
 </div>
 
 ## Tech with which I am familiar with and use more often !
 
   Fron End :
   
-  &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px">&nbsp;&nbsp;&nbsp;<img src="./images/react-50.png">
-  &nbsp;&nbsp;&nbsp;<img src="./images/html-5-50.png">
+  &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;<img src="./images/react-50.png" title="ReactJs">
+  &nbsp;&nbsp;&nbsp;<img src="./images/html-5-50.png" title="HTML">&nbsp;&nbsp;&nbsp;<img src="./images/css3-50.png" title="CSS">
+  &nbsp;&nbsp;&nbsp;<img src="./images/tailwind-css-seeklogo.com.svg" title="CSS">
 
 
 <!---
