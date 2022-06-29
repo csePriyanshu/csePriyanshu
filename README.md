@@ -13,14 +13,19 @@ A young passionate engineer pursuing a career in coding, software and web develo
   <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png" title="Instagram"></a>
 </div>
 
-## Tech with which I am familiar with and use more often !
+## Tech I am familiar with and use more often !
 
-  Fron End :
+  Front End :
   
   &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;<img src="./images/react-50.png" title="ReactJs">
   &nbsp;&nbsp;&nbsp;<img src="./images/html-5-50.png" title="HTML">&nbsp;&nbsp;&nbsp;<img src="./images/css3-50.png" title="CSS">
   &nbsp;&nbsp;&nbsp;<img src="./images/tailwindcss.png" width ="50px" title="TailwindCSS">&nbsp;&nbsp;&nbsp;<img src="./images/bootstrap-50.png" title="Boostrap">
-
+  
+  Back End :
+  
+  &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;
+  <img src="./images/nodejs-50.png" style="width:50px" title="NodeJs">&nbsp;&nbsp;&nbsp;<img src="./images/mysql-logo-50.png" title="MySQL">
+  &nbsp;&nbsp;&nbsp;<img src="./images/php-logo-50.png" title="PHP">&nbsp;&nbsp;&nbsp;<img src="./images/java-50.png" title="Java">
 
 <!---
 csePriyanshu/csePriyanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
