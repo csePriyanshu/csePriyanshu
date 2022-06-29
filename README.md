@@ -37,7 +37,7 @@ A young passionate engineer pursuing a career in coding, software and web develo
   
   Coding Platforms :
   
-  &nbsp;&nbsp;&nbsp;<a href="www.hackerrank.com/priyanshushukla8" target="_blank"><img src="./images/hackerrank-50.png" style="width:50px" title="Hackerrank"></a>
+  &nbsp;&nbsp;&nbsp;<a href="htps://www.hackerrank.com/priyanshushukla8" target="_blank"><img src="./images/hackerrank-50.png" style="width:50px" title="Hackerrank"></a>
   
 
 <!---
