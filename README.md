@@ -9,8 +9,8 @@ A young passionate engineer pursuing a career in coding, software and web develo
 <div>
   <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin-30.png"></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><img src="./images/leetcode.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png"></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/prianshukla" target="_blank"><img src="./images/codepen-30.png"></a>
+  <a href="https://codepen.io/prianshukla" target="_blank"><img src="./images/codepen-30.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png"></a>
 </div>
 
 ## Tech with which I am familiar with and use more often !
