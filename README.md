@@ -23,9 +23,9 @@ A young passionate engineer pursuing a career in coding, software and web develo
   
   Back End :
   
-  &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;
-  <img src="./images/nodejs-50.png" style="width:50px" title="NodeJs">&nbsp;&nbsp;&nbsp;<img src="./images/mysql-logo-50.png" title="MySQL">
-  &nbsp;&nbsp;&nbsp;<img src="./images/php-logo-50.png" title="PHP">&nbsp;&nbsp;&nbsp;<img src="./images/java-50.png" title="Java">
+  &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;<img src="./images/java-50.png" title="Java">
+  &nbsp;&nbsp;&nbsp;<img src="./images/nodejs-50.png" style="width:50px" title="NodeJs">&nbsp;&nbsp;&nbsp;<img src="./images/mysql-logo-50.png" title="MySQL">
+  &nbsp;&nbsp;&nbsp;<img src="./images/php-logo-50.png" title="PHP">
   
   Softwares :
   
@@ -38,6 +38,8 @@ A young passionate engineer pursuing a career in coding, software and web develo
   Coding Platforms :
     
   &nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/priyanshushukla8" target="_blank"><img src="./images/hackerrank-50.png" title="Hackerrank"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><img src="./images/leetcode-50.png" title="Leetcode"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/roger_20" target="_blank"><img src="./images/codechef-50.png" title="Leetcode"></a>
   
 
 <!---
