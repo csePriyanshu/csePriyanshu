@@ -12,7 +12,7 @@ A young passionate engineer pursuing a career in coding, software and web develo
   <a href="https://www.instagram.com/_prianshukla/" target="_blank"><img src="./images/instagram-30.png"></a>&nbsp;&nbsp;
   <a href="https://codepen.io/prianshukla" target="_blank"><img src="./images/codepen-30.png"></a>
 </div>
-<br>
+
 ## Tech with which I am familiar with and use more often !
 
   Fron End :
