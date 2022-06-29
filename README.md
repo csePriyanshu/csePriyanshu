@@ -19,7 +19,7 @@ A young passionate engineer pursuing a career in coding, software and web develo
   
   &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px" title="Javascript">&nbsp;&nbsp;&nbsp;<img src="./images/react-50.png" title="ReactJs">
   &nbsp;&nbsp;&nbsp;<img src="./images/html-5-50.png" title="HTML">&nbsp;&nbsp;&nbsp;<img src="./images/css3-50.png" title="CSS">
-  &nbsp;&nbsp;&nbsp;<img src="./images/tailwind-css-seeklogo.com.svg" title="CSS">
+  &nbsp;&nbsp;&nbsp;<img src="./images/tailwindcss.png" width ="50px" title="TailwindCSS">&nbsp;&nbsp;&nbsp;<img src="./images/bootstrap-50.png" title="Boostrap">
 
 
 <!---
