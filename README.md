@@ -18,6 +18,7 @@ A young passionate engineer pursuing a career in coding, software and web develo
   Fron End :
   
   &nbsp;&nbsp;&nbsp;<img src="./images/javascript-50.png" style="width:50px">&nbsp;&nbsp;&nbsp;<img src="./images/react-50.png">
+  &nbsp;&nbsp;&nbsp;<img src="./images/html-5-50.png">
 
 
 <!---
