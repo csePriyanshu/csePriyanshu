@@ -2,8 +2,6 @@
 
 ## I am Priyanshu Shukla
 
-A young passionate engineer pursuing a career in coding, software and web development. Ready to face new challenges in my life as a software engineer and to adapt to the changing environment of the world's developing IT sector. I am good at quickly and effectively learning new things.
-
 ## Check me out on -
 
 <div>
