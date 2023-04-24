@@ -2,7 +2,7 @@
 
 ## I am Priyanshu Shukla
 
-## Check me out on -
+<!-- ## Check me out on -
 
 <div>
   <a href="https://www.linkedin.com/in/prianshukla/" target="_blank"><img src="./images/linkedin-30.png" title="Linkedin"></a>&nbsp;&nbsp;
@@ -37,7 +37,7 @@
     
   &nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/priyanshushukla8" target="_blank"><img src="./images/hackerrank-50.png" title="Hackerrank"></a>
   &nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/priyanshushukla5555/" target="_blank"><img src="./images/leetcode-50.png" title="Leetcode"></a>
-  &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/roger_20" target="_blank"><img src="./images/codechef-img-50.png" title="CodeChef"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/roger_20" target="_blank"><img src="./images/codechef-img-50.png" title="CodeChef"></a> -->
   
 
 <!---
