@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Priyanshu, a passionate software developer and an MTech CS student at IIT Ropar. My interests include competitive programming, full-stack development, and cloud computing. 🚀
+I'm Priyanshu, a passionate software developer and an **MTech CS** student at **IIT Ropar**. My interests include competitive programming, full-stack development, and cloud computing. 🚀
 
 ---
 
