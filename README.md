@@ -18,7 +18,7 @@ I'm Priyanshu, a passionate software developer and an MTech CS student at IIT Ro
 
 ---
 
-### 🏆 LeetCode Stats:
+<!-- ### 🏆 LeetCode Stats: -->
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-prianshukla-orange?style=flat&logo=leetcode)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prianshukla?ext=heatmap)
 
