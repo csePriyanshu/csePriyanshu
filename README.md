@@ -14,7 +14,7 @@ I'm Priyanshu, a passionate software developer and an MTech CS student at IIT Ro
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 - **Operating Systems**:  
-  ![Windows](https://img.shields.io/badge/-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
