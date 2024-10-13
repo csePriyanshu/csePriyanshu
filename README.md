@@ -1,6 +1,62 @@
-# Hi👋 !
+### Hi there 👋
+I'm Priyanshu, a passionate software developer and an MTech CS student at IIT Ropar. My interests include competitive programming, full-stack development, and cloud computing. 🚀
 
-## I am Priyanshu Shukla.
+---
+
+### 🛠 Tech Stack:
+- **Languages**:  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- **Tools & Libraries**:  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+- **Frameworks**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+- **Operating Systems**:  
+  ![Windows](https://img.shields.io/badge/-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csePriyanshu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csePriyanshu&layout=compact&theme=radical)
+
+---
+
+### 🏆 LeetCode Stats:
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-prianshukla-orange?style=flat&logo=leetcode)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/prianshukla?ext=heatmap)
+
+---
+
+### 📂 Projects:
+- [**Portfolio Website**](https://github.com/csePriyanshu/my-portfolio)  
+  A personal portfolio website built with **HTML, CSS, and JavaScript**.
+  
+- [**Indian Mandi Data Visualization**](https://github.com/csePriyanshu/India-mandi-data-visualization)  
+  This report analyzes the current state of agricultural commodities in India, utilizing data from **Mandi** dataset.
+  
+- [**Graphs**](https://github.com/csePriyanshu/Graphs)  
+  Algorithms like **Topological Sort**, **Cycle Detection**, and **Minimum Spanning Tree** using Prim's and Kruskal's algorithms.
+
+- [**Tree**](https://github.com/csePriyanshu/Tree)  
+  Implement a program for **Binary Tree**, Binary Search Tree (**BST**), and **AVL Tree**.
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prianshukla) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/prianshukla) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/csePriyanshu)
+
+---
+
+### ⚡ My Skills:
+- **Programming Languages**: C, C++, Python, Java, JavaScript, PHP, SQL, HTML, CSS, MySQL
+- **Tools & Libraries**: Git, GitHub, AWS EC2, VS Code, Postman, Matplotlib, TensorFlow, Keras
+- **Frameworks**: ReactJs, Django, REST, RESTful API
+- **Operating Systems**: Windows 11, Linux Ubuntu
+
+
 
 <!-- ## Check me out on -
 
