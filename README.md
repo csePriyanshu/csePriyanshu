@@ -18,15 +18,15 @@ I'm Priyanshu, a passionate software developer and an MTech CS student at IIT Ro
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csePriyanshu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csePriyanshu&layout=compact&theme=radical)
-
----
-
 ### 🏆 LeetCode Stats:
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-prianshukla-orange?style=flat&logo=leetcode)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prianshukla?ext=heatmap)
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csePriyanshu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csePriyanshu&layout=compact&theme=radical)
 
 ---
 
