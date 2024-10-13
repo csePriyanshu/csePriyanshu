@@ -31,7 +31,9 @@ I'm Priyanshu, a passionate software developer and an MTech CS student at IIT Ro
 ---
 
 ### 📂 Projects:
-- [**Portfolio Website**](https://github.com/csePriyanshu/my-portfolio)  
+<!-- - [**Portfolio Website**](https://github.com/csePriyanshu/my-portfolio) -->
+- <a href="https://csepriyanshu.github.io/priyanshu-portfolio/" target="_blank">My Portfolio <img src="https://img.icons8.com/material-outlined/24/FFFFFF/external-link.png" alt="External Link" style="width: 16px;"/></a>
+
   A personal portfolio website built with **HTML, CSS, and JavaScript**.
   
 - [**Indian Mandi Data Visualization**](https://github.com/csePriyanshu/India-mandi-data-visualization)  
